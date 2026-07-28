@@ -1,6 +1,6 @@
 {
   "m": "2026-07",
-  "updated": "2026-06-30",
+  "updated": "2026-07-28",
   "cur": {
     "s98": 3.4,
     "s95": 3.29,
@@ -58,7 +58,7 @@
     }
   ],
   "next": {
-    "dir": "stable",
-    "note": "Brent is averaging $84 so far this month, in line with the previous month."
+    "dir": "up",
+    "note": "Announced: Special 95 will be AED 3.40 (up 11 fils) from 1 August 2026."
   }
 }
