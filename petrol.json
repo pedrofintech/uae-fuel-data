@@ -65,7 +65,7 @@
     }
   ],
   "next": {
-    "dir": "down",
-    "note": "Brent is averaging $82 so far this month, 3% below the previous month - pointing to lower prices in September 2026."
+    "dir": "stable",
+    "note": "Brent is averaging $83 so far this month, in line with the previous month."
   }
 }
