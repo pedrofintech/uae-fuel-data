@@ -1,6 +1,6 @@
 {
   "m": "2026-09",
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "cur": {
     "s98": 4.3,
     "s95": 3.8,
@@ -72,7 +72,7 @@
     }
   ],
   "next": {
-    "dir": "stable",
-    "note": "Announced: Special 95 will be AED 3.80 (unchanged) from 1 October 2026."
+    "dir": "up",
+    "note": "Announced: Special 95 will be AED 4.40 (up 60 fils) from 1 October 2026."
   }
 }
