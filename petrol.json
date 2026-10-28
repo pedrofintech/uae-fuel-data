@@ -1,6 +1,6 @@
 {
   "m": "2026-10",
-  "updated": "2026-10-01",
+  "updated": "2026-10-28",
   "cur": {
     "s98": 4.8,
     "s95": 4.4,
@@ -79,7 +79,7 @@
     }
   ],
   "next": {
-    "dir": "up",
-    "note": "Brent is averaging $107 so far this month, 5% above the previous month - pointing to higher prices in November 2026."
+    "dir": "down",
+    "note": "Announced: Special 95 will be AED 4.28 (down 12 fils) from 1 November 2026."
   }
 }
